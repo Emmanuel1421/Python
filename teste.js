@@ -23,23 +23,6 @@ vitor[20]="texto";
 
 console.log(vitor);
 
-
-
-/*
-//renato é o homem que mais da a bunda no globo terrestre
-//renato é um estudado
-//renato é um homem que gosta de dar a bunda
-//renato é 
-//cavalos...
-//a cleide de mini saia bem curtinha
-//5 mil cavalos em nicolas
-//no matagal 
-//coisa boa hein cleide
-//ai dalva como voce bebe agua
-//eu sou um estudado
-//
-*///surpresa, eu voltei
-
 var pessoa = ['Josélio','Alberisto','Jonas'];
 pessoa.splice(2,0,"Alberto","Joca");
 console.log(pessoa);
