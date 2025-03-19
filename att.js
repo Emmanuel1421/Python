@@ -12,13 +12,13 @@ console.log(`O primeiro elemento é ${carros[0]},o ultimo elemento é ${carros.p
 //4.
 carros.shift();
 console.log(carros);
-carros.unshift("leoMovel");
+carros.unshift("L1232");
 console.log(carros);
 
 //5.
 carros.pop();
 console.log(carros);
-carros.push("hb20");
+carros.push("JHb20");
 console.log(carros);
 
 //6
@@ -26,7 +26,7 @@ carros.splice(1,3);
 console.log(carros)
 
 //7
-carros.splice(1,0,"leoBlox","renatoBlox")
+carros.splice(1,0,"CorsaL","CeltaL")
 console.log(carros);
 
 
